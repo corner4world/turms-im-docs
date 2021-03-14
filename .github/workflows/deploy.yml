@@ -1,0 +1,23 @@
+name: Deploy
+on: workflow_dispatch
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Deploy
+        run: |
+          git config --global user.name 'James Chen'
+          git config --global user.email 'eurekajameschen@gmail.com'
+          git clone --depth=1 https://github.com/turms-im/turms.git
+          npm --prefix ./turms/turms-docs install
+          npm --prefix ./turms/turms-docs run build
+
+          rm -rf docs
+          cp -R ./turms/turms-docs/src/.vuepress/dist docs
+
+          git add docs/\*
+          git commit -m "update docs"
+          git push
