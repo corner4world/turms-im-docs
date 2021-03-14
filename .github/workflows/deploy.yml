@@ -12,11 +12,11 @@ jobs:
           git config --global user.name 'James Chen'
           git config --global user.email 'eurekajameschen@gmail.com'
           git clone --depth=1 https://github.com/turms-im/turms.git
-          npm --prefix ./turms/turms-docs install
+          npm --prefix ./turms/turms-docs i
           npm --prefix ./turms/turms-docs run build
 
           rm -rf docs
-          cp -R ./turms/turms-docs/src/.vuepress/dist docs
+          mv ./turms/turms-docs/src/.vuepress/dist docs
 
           git add docs/\*
           git commit -m "update docs"
