@@ -1,0 +1,1 @@
+const e={key:"v-2d4882a6",path:"/for-developers/data-analytics.html",title:"\u6570\u636E\u5206\u6790",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647000817e3},filePathRelative:"for-developers/data-analytics.md"};export{e as data};
