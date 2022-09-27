@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-219deb10","path":"/for-developers/client-server-protocol.html","title":"\u4E0E\u670D\u52A1\u7AEF\u901A\u4FE1\u65F6\u4F7F\u7528\u7684\u6570\u636E\u683C\u5F0F","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1664275939000},"filePathRelative":"for-developers/client-server-protocol.md"}');export{e as data};
