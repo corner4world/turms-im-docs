@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-33bc4be0","path":"/for-developers/client-requirements.html","title":"版本要求","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1677802399000},"filePathRelative":"for-developers/client-requirements.md"}');export{e as data};

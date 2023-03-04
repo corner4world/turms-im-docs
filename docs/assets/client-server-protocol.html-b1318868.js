@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-219deb10","path":"/for-developers/client-server-protocol.html","title":"与服务端通信时使用的数据格式","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"XMPP","slug":"xmpp","link":"#xmpp","children":[]}],"git":{"updatedTime":1677889945000},"filePathRelative":"for-developers/client-server-protocol.md"}');export{e as data};
