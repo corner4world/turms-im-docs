@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-35380e8e","path":"/features/","title":"业务功能介绍","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1678840713000},"filePathRelative":"features/README.md"}');export{e as data};
