@@ -1,0 +1,1 @@
+import{_ as a,c as s,o,R as n}from"./chunks/framework.b6850781.js";const D=JSON.parse('{"title":"安全","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/server/module/security.md"}'),l={name:"zh-CN/server/module/security.md"},e=n("",57),t=[e];function p(r,c,i,d,C,A){return o(),s("div",null,t)}const u=a(l,[["render",p]]);export{D as __pageData,u as default};

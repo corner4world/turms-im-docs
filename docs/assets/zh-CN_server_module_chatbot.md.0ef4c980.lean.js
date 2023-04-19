@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as s,R as e}from"./chunks/framework.b6850781.js";const D=JSON.parse('{"title":"聊天机器人","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/server/module/chatbot.md"}'),r={name:"zh-CN/server/module/chatbot.md"},n=e("",11),o=[n];function l(p,d,c,i,u,h){return s(),t("div",null,o)}const _=a(r,[["render",l]]);export{D as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,R as n}from"./chunks/framework.b6850781.js";const f=JSON.parse('{"title":"turms-admin","description":"","frontmatter":{},"headers":[],"relativePath":"turms-admin.md"}'),o={name:"turms-admin.md"},r=n("",27),s=[r];function i(l,d,c,m,p,h){return a(),t("div",null,s)}const g=e(o,[["render",i]]);export{f as __pageData,g as default};

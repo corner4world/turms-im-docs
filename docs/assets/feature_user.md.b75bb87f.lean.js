@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,R as o}from"./chunks/framework.b6850781.js";const g=JSON.parse('{"title":"User-related Features","description":"","frontmatter":{},"headers":[],"relativePath":"feature/user.md"}'),s={name:"feature/user.md"},i=o("",17),a=[i];function n(d,l,u,c,h,p){return r(),t("div",null,a)}const m=e(s,[["render",n]]);export{g as __pageData,m as default};

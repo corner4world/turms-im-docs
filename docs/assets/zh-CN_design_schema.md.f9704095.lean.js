@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as r,R as a}from"./chunks/framework.b6850781.js";const g=JSON.parse('{"title":"集合结构设计","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/design/schema.md"}'),d={name:"zh-CN/design/schema.md"},s=a("",46),t=[s];function c(i,l,n,u,p,h){return r(),o("div",null,t)}const D=e(d,[["render",c]]);export{g as __pageData,D as default};

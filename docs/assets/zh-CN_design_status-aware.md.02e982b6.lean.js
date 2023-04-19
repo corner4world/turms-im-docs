@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,R as s}from"./chunks/framework.b6850781.js";const b=JSON.parse('{"title":"状态感知","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/design/status-aware.md"}'),r={name:"zh-CN/design/status-aware.md"},o=s("",83),l=[o];function i(d,n,c,p,h,u){return t(),a("div",null,l)}const D=e(r,[["render",i]]);export{b as __pageData,D as default};

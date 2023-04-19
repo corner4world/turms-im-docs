@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,R as a}from"./chunks/framework.b6850781.js";const b=JSON.parse('{"title":"度量数据","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/client/metrics.md"}'),d={name:"zh-CN/client/metrics.md"},s=a("",7),i=[s];function o(c,n,l,h,m,_){return r(),e("div",null,i)}const p=t(d,[["render",o]]);export{b as __pageData,p as default};

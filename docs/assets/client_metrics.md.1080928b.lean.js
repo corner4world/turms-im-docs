@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s,R as r}from"./chunks/framework.b6850781.js";const f=JSON.parse('{"title":"Metrics","description":"","frontmatter":{},"headers":[],"relativePath":"client/metrics.md"}'),n={name:"client/metrics.md"},i=r("",7),o=[i];function a(c,d,h,l,m,b){return s(),e("div",null,o)}const _=t(n,[["render",a]]);export{f as __pageData,_ as default};

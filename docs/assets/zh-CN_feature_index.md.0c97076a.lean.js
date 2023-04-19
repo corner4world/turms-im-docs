@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,R as a}from"./chunks/framework.b6850781.js";const h=JSON.parse('{"title":"业务功能介绍","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/feature/index.md"}'),s={name:"zh-CN/feature/index.md"},o=a("",4),n=[o];function i(l,c,m,_,u,d){return t(),r("div",null,n)}const p=e(s,[["render",i]]);export{h as __pageData,p as default};
