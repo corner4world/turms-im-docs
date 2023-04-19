@@ -16,7 +16,7 @@ jobs:
           npm --prefix ./turms/turms-docs run build
 
           rm -rf docs
-          mv ./turms/turms-docs/src/.vuepress/dist docs
+          mv ./turms/turms-docs/src/.vitepress/dist docs
 
           git add docs/\*
           git commit -m "update docs"
