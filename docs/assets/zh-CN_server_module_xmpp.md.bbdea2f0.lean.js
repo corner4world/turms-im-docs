@@ -1,0 +1,1 @@
+import{_ as P,c as r,o as e,R as a}from"./chunks/framework.b6850781.js";const c=JSON.parse('{"title":"XMPP","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/server/module/xmpp.md"}'),s={name:"zh-CN/server/module/xmpp.md"},l=a("",10),u=[l];function i(p,t,m,o,M,X){return e(),r("div",null,u)}const n=P(s,[["render",i]]);export{c as __pageData,n as default};
