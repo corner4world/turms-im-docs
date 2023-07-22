@@ -1,1 +1,0 @@
-import{_ as s,c as e,o as a,R as r}from"./chunks/framework.b6850781.js";const _=JSON.parse('{"title":"社区","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/community/index.md"}'),t={name:"zh-CN/community/index.md"},u=r("",20),i=[u];function l(o,n,p,h,m,c){return a(),e("div",null,i)}const b=s(t,[["render",l]]);export{_ as __pageData,b as default};
