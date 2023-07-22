@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,R as s}from"./chunks/framework.b6850781.js";const y=JSON.parse('{"title":"Session Lifecycle","description":"","frontmatter":{},"headers":[],"relativePath":"client/session.md"}'),n={name:"client/session.md"},i=s("",6),c=[i];function r(d,a,l,h,u,f){return o(),t("div",null,c)}const p=e(n,[["render",r]]);export{y as __pageData,p as default};

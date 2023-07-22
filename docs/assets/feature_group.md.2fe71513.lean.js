@@ -1,1 +1,0 @@
-import{_ as t,c as e,o,R as r}from"./chunks/framework.b6850781.js";const m=JSON.parse('{"title":"Group-related Features","description":"","frontmatter":{},"headers":[],"relativePath":"feature/group.md"}'),i={name:"feature/group.md"},n=r("",16),a=[n];function d(s,u,l,p,c,g){return o(),e("div",null,a)}const f=t(i,[["render",d]]);export{m as __pageData,f as default};

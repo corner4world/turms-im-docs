@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as r,R as l}from"./chunks/framework.b6850781.js";const p=JSON.parse('{"title":"管理员API接口","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/reference/admin-api.md"}'),a={name:"zh-CN/reference/admin-api.md"},d=l("",38),o=[d];function s(n,i,h,u,g,c){return r(),e("div",null,o)}const b=t(a,[["render",s]]);export{p as __pageData,b as default};

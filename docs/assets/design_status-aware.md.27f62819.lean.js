@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s,R as a}from"./chunks/framework.b6850781.js";const g=JSON.parse('{"title":"Status Awareness","description":"","frontmatter":{},"headers":[],"relativePath":"design/status-aware.md"}'),o={name:"design/status-aware.md"},i=a("",83),n=[i];function r(l,h,d,c,u,m){return s(),t("div",null,n)}const f=e(o,[["render",r]]);export{g as __pageData,f as default};

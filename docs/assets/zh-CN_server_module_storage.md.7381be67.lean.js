@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as d,R as r}from"./chunks/framework.b6850781.js";const b=JSON.parse('{"title":"存储服务","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/server/module/storage.md"}'),a={name:"zh-CN/server/module/storage.md"},o=r("",47),i=[o];function c(s,l,u,n,h,m){return d(),e("div",null,i)}const g=t(a,[["render",c]]);export{b as __pageData,g as default};

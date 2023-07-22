@@ -1,1 +1,0 @@
-import{_ as t,c as d,o as _,R as r}from"./chunks/framework.b6850781.js";const A=JSON.parse('{"title":"Status Code","description":"","frontmatter":{},"headers":[],"relativePath":"reference/status-code.md"}'),E={name:"reference/status-code.md"},e=r("",14),O=[e];function N(R,T,S,s,I,o){return _(),d("div",null,O)}const U=t(E,[["render",N]]);export{A as __pageData,U as default};
