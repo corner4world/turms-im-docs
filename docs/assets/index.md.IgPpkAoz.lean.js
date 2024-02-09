@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,V as a}from"./chunks/framework.fogKwqBf.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),r={name:"index.md"},i=a("",49),o=[i];function n(l,c,d,u,p,h){return s(),t("div",null,o)}const f=e(r,[["render",n]]);export{g as __pageData,f as default};
