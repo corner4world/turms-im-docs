@@ -1,0 +1,1 @@
+import{_ as t,c as s,o as r,a3 as a}from"./chunks/framework.ViWktWD6.js";const k=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/index.md","filePath":"zh-CN/index.md"}'),e={name:"zh-CN/index.md"},i=a("",48),l=[i];function n(p,h,o,d,u,m){return r(),s("div",null,l)}const g=t(e,[["render",n]]);export{k as __pageData,g as default};

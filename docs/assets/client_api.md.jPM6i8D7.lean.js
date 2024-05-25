@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,V as n}from"./chunks/framework.fogKwqBf.js";const c=JSON.parse('{"title":"API","description":"","frontmatter":{},"headers":[],"relativePath":"client/api.md","filePath":"client/api.md"}'),e={name:"client/api.md"},t=n("",32),h=[t];function l(p,k,r,d,E,o){return a(),i("div",null,h)}const y=s(e,[["render",l]]);export{c as __pageData,y as default};
